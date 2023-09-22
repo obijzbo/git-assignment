@@ -41,4 +41,7 @@ The task can be summarized as follows:
 
 ---
 
+### Please see the excel file to find the group you are assigned to
 ### For reference follow the structure of this git repo
+### Join the Discord server to have group discussion and task submission. 
+https://discord.gg/xSqR7b8H
